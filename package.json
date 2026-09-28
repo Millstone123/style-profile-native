@@ -1,0 +1,11 @@
+{
+  "name": "style-profile-native",
+  "version": "1.0.0",
+  "description": "Native style profile bindings for accelerated CSS parsing",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "os": ["darwin"],
+  "cpu": ["arm64"]
+}
